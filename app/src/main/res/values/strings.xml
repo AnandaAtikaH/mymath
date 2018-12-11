@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Math</string>
+    <string name="persegiempat">
+
+sifat-sifat persegi :
+
+•	Memiliki 4 sisi dan 4 titik sudut
+•	Memiliki 2 pasang sisi yang sejajar dan sama panjang
+•	Keempat sisinya sama panjang
+•	Keempat Sudutnya sama besar yaitu 90 derajat (siku-siku)
+•	Memiliki 4 simetri lipat
+•	Memiliki simetri putar tingkat 4
+
+</string>
+
+    <string name="persegipanjang">
+        •	Memiliki 2 pasang sisi sejajar, berhadapan dan sama panjang
+        •	Memiliki 4 sudut yang besarnya 90 derajat
+        •	Keempat sudutnya siku-siku
+        •	Memiliki 2 diagonal yang sama panjang
+        •	Memiliki 2 simetri lipat
+        •	Memiliki Simetri putar tingkat 2
+    </string>
+    
+    <string name="segitiga">
+        •	Mempunyai 3 sisi dan 3 titik sudut
+        •	Jumlah ketiga sudutnya 180 derajat
+    </string>
+    
+    <string name="jajargenjang">
+        •	Memiliki 2 pasang sisi yang sejajar dan sama panjang
+        •	Memiliki 2 sudut tumpul dan 2 sudut lancip
+        •	Sudut yang berhadapan sama besar
+        •	Diagonalnya tidak sama panjang
+        •	Tidak memiliki simetri lipat
+        •	Memiliki simetri putar tingkat 2
+    </string>
+    
+    <string name="trapesium">
+        •	Memiliki 4 sisi dan 4 titik sudut
+        •	Memiliki sepasang sisi yang sejajar tetapi tidak sama panjang
+        •	Sudut - sudut diantara sisi sejajar besarnya 180 derajat
+
+    </string>
+    
+    
+    <string name="komutatif">
+        Seperti yang telah kamu ketahui, sifat komutatif disebut juga sifat pertukaran yang berlaku pada perkalian dan perjumlahan.
+
+</string>
+    
+    <string name="asosiatif">
+        Pada penjumlahan dan perkalian tiga bilangan bulat berlaku sifat asosiatif atau disebut juga sifat pengelompokan.
+        penjumlahan
+
+
+    </string>
+
+    <string name="distributif">
+         Sifat distributif disebut juga sifat penyebaran.
+
+
+    </string>
+</resources>
